@@ -1,0 +1,4 @@
+node_modules
+.env
+
+// "dev": "SET NODE_ENV=PRODUCTION && nodemon app.js"

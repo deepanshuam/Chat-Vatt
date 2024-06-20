@@ -1,0 +1,13 @@
+1. User can register/ login with a username
+2. Users can search for other user
+3. send a friend requests
+4. notified about the request
+5. see the chat list
+6. users can send attachements in a chat
+7. create a group chat with a min of 3 to 100 members
+8. group admin can rename the group , add and remove the members
+9. admin can delete the group
+10. members can leave the grop
+11. if group admin leave the group new admin assign
+12. user can delete a chat/unfriend a user
+13. Admin dashboard to see user , ony accessible if you have a secret key
